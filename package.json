@@ -1,0 +1,5 @@
+{
+  "scripts": {
+  	"start": "parcel build src/index.html src/{a,b}/index.html --no-cache --no-minify"
+  }
+}
